@@ -19,6 +19,7 @@ body {
 	font-weight: bold;
 	color: white;
 	background-color: black;
+	display: block;
 }
 
 #logo {
@@ -27,8 +28,7 @@ body {
 }
 
 #logo img {
-	width: 30%;
-	max-width: 100%;
+	width: 300px;
 }
 
 fieldset {
