@@ -27,8 +27,8 @@ body {
 }
 
 #logo img {
-	width: 300px;
-	margin:auto;
+	width: 30%;
+	max-width: 100%;
 }
 
 fieldset {
