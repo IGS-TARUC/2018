@@ -19,7 +19,7 @@ body {
 	font-weight: bold;
 	color: white;
 	background-color: black;
-	display: block;
+	align-content: center;
 }
 
 #logo {
