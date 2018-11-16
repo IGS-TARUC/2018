@@ -12,13 +12,6 @@
     font-style: normal;
 }
 
-@media (max-width: 480px) {
-	body {
-		width: 20%;
-		height: 20%;
-	}
-}
-
 body {
 	font-size: 32px;
 	font-family: Silkscreen, monospace;
