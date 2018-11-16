@@ -13,14 +13,12 @@
 }
 
 body {
-	font-size: 32px;
+	font-size: 24px;
 	font-family: Silkscreen, monospace;
 	font-weight: bold;
 	color: white;
 	background-color: #10121d;
 	background-image: url(bckgrd.gif);
-	width: 100%;
-	height: 100%;
 }
 
 #logo {
@@ -56,17 +54,17 @@ li {
 
 #first {
 	text-shadow: 0 0 15px gold, 0 0 5px darkorange;
-	font-size: 44px;
+	font-size: 36px;
 }
 
 #second {
 	text-shadow: 0 0 15px magenta, 0 0 5px indigo;
-	font-size: 40px;
+	font-size: 32px;
 }
 
 #third {
 	text-shadow: 0 0 15px aqua, 0 0 5px blue;
-	font-size: 36px;
+	font-size: 28px;
 }
 
 
@@ -81,7 +79,7 @@ ul.leaders li:before {
     width: 0;
     white-space: nowrap;
 	text-shadow: none;
-	font-size: 32px;
+	font-size: 24px;
     content:
  ". . . . . . . . . . . . . . . . . . . . "
  ". . . . . . . . . . . . . . . . . . . . "
@@ -99,9 +97,9 @@ ul.leaders span + span {
 
 p {
 	text-align: center;
-	text-shadow: 0 0 30px white, 0 0 5px darkseagreen;
+	text-shadow: 0 0 20px white, 0 0 5px darkseagreen;
 }
 
 #credit {
-	text-shadow: 0 0 15px lime, 0 0 5px lawngreen;
+	text-shadow: 0 0 12px lime, 0 0 5px lawngreen;
 }
