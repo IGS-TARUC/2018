@@ -54,17 +54,17 @@ li {
 
 #first {
 	text-shadow: 0 0 15px gold, 0 0 5px darkorange;
-	font-size: 56px;
+	font-size: 44px;
 }
 
 #second {
 	text-shadow: 0 0 15px magenta, 0 0 5px indigo;
-	font-size: 48px;
+	font-size: 40px;
 }
 
 #third {
 	text-shadow: 0 0 15px aqua, 0 0 5px blue;
-	font-size: 40px;
+	font-size: 36px;
 }
 
 
