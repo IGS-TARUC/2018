@@ -19,6 +19,8 @@ body {
 	color: white;
 	background-color: #10121d;
 	background-image: url(bckgrd.gif);
+	width: 100%;
+	height: 100%;
 }
 
 #logo {
@@ -36,7 +38,7 @@ fieldset {
 }
 
 legend {
-	font-size: 2em;
+	font-size: 64px;
 	text-shadow: 0 0 25px white, 0 0 5px darkseagreen;
 	margin-bottom: 20px;
 }
@@ -54,17 +56,17 @@ li {
 
 #first {
 	text-shadow: 0 0 15px gold, 0 0 5px darkorange;
-	font-size: 1.375em;
+	font-size: 44px;
 }
 
 #second {
 	text-shadow: 0 0 15px magenta, 0 0 5px indigo;
-	font-size: 1.250em;
+	font-size: 40px;
 }
 
 #third {
 	text-shadow: 0 0 15px aqua, 0 0 5px blue;
-	font-size: 1.125em;
+	font-size: 36px;
 }
 
 
@@ -79,7 +81,7 @@ ul.leaders li:before {
     width: 0;
     white-space: nowrap;
 	text-shadow: none;
-	font-size: 1em;
+	font-size: 32px;
     content:
  ". . . . . . . . . . . . . . . . . . . . "
  ". . . . . . . . . . . . . . . . . . . . "
