@@ -13,7 +13,7 @@
 }
 
 body {
-	font-size: 24px;
+	font-size: 16px;
 	font-family: Silkscreen, monospace;
 	font-weight: bold;
 	color: white;
@@ -54,17 +54,17 @@ li {
 
 #first {
 	text-shadow: 0 0 15px gold, 0 0 5px darkorange;
-	font-size: 36px;
+	font-size: 28px;
 }
 
 #second {
 	text-shadow: 0 0 15px magenta, 0 0 5px indigo;
-	font-size: 32px;
+	font-size: 24px;
 }
 
 #third {
 	text-shadow: 0 0 15px aqua, 0 0 5px blue;
-	font-size: 28px;
+	font-size: 20px;
 }
 
 
@@ -79,7 +79,7 @@ ul.leaders li:before {
     width: 0;
     white-space: nowrap;
 	text-shadow: none;
-	font-size: 24px;
+	font-size: 16px;
     content:
  ". . . . . . . . . . . . . . . . . . . . "
  ". . . . . . . . . . . . . . . . . . . . "
@@ -97,9 +97,9 @@ ul.leaders span + span {
 
 p {
 	text-align: center;
-	text-shadow: 0 0 20px white, 0 0 5px darkseagreen;
+	text-shadow: 0 0 12px white, 0 0 5px darkseagreen;
 }
 
 #credit {
-	text-shadow: 0 0 12px lime, 0 0 5px lawngreen;
+	text-shadow: 0 0 8px lime, 0 0 5px lawngreen;
 }
